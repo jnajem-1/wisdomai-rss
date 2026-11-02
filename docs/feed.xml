@@ -4,11 +4,19 @@
   <title>WisdomAI Blog</title>
   <link>https://www.wisdom.ai/blog</link>
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>Comprehensive feed of all WisdomAI blog posts (38 items).</description>
+  <description>Comprehensive feed of all WisdomAI blog posts (39 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 02 Nov 2026 11:20:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 21:45:07 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
+  <item>
+    <title>Four Questions to Ask When You Interview at a Startup</title>
+    <link>https://www.wisdom.ai/blog/interviewing-at-a-startup</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/interviewing-at-a-startup</guid>
+    <pubDate>Wed, 28 Oct 2026 16:54:43 +0000</pubDate>
+    <description>So you landed a job interview? Congrats! Here are four questions you should ask to actually interview the startup instead of them just interviewing you.</description>
+    <media:content url="https://framerusercontent.com/images/msxkodC8q0fiZzo7y1oJuXoDunw.png?width=1280&amp;height=769" medium="image"/>
+  </item>
   <item>
     <title>From 93% to 100% Accuracy: The Last Mile of AI Analytics</title>
     <link>https://www.wisdom.ai/blog/last-mile-ai-analytics-accuracy</link>
