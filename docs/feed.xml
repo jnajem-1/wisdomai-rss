@@ -6,7 +6,7 @@
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Comprehensive feed of all WisdomAI blog posts (40 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Nov 2026 19:33:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 00:39:33 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
   <item>
@@ -66,14 +66,6 @@
     <media:content url="https://framerusercontent.com/images/YmBp11S7YgnInsGYi8W9MZntKw.png?width=3840&amp;height=2196" medium="image"/>
   </item>
   <item>
-    <title>How Live Apps Change the Way GTM Teams Act on Data</title>
-    <link>https://www.wisdom.ai/blog/how-i-run-gtm-on-live-apps</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/how-i-run-gtm-on-live-apps</guid>
-    <pubDate>Thu, 01 Oct 2026 07:40:44 +0000</pubDate>
-    <description>Forget static dashboards. See how our GTM leaders build Live Apps to analyze, forecast, and plan in one interactive surface, with just a few messages. </description>
-    <media:content url="https://framerusercontent.com/images/jMd1bvsI7ZdTHooVa1Ed6c05Po.png?width=1280&amp;height=732" medium="image"/>
-  </item>
-  <item>
     <title>Introducing Apache Ossie Standard in WisdomAI</title>
     <link>https://www.wisdom.ai/blog/introducing-apace-ossie-import</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-apace-ossie-import</guid>
@@ -90,12 +82,12 @@
     <media:content url="https://framerusercontent.com/images/NOYUUVXYgvipJ3IoSki8auYLAf8.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
-    <title>A Day in the Life of a SQL Query</title>
-    <link>https://www.wisdom.ai/blog/a-day-in-the-life-of-a-sql-query</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/a-day-in-the-life-of-a-sql-query</guid>
-    <pubDate>Fri, 18 Sep 2026 18:55:22 +0000</pubDate>
-    <description>Join WisdomAI Co-Founder and Chief Architect, Guilherme Menezes, as he unpacks why SQL generation is harder than it looks.</description>
-    <media:content url="https://framerusercontent.com/images/LzhjRFhW8BU8oVDQeVoT0CJqeg.png?width=3840&amp;height=2196" medium="image"/>
+    <title>How To Build A Go To Market (GTM) Context Layer</title>
+    <link>https://www.wisdom.ai/blog/gtm-context-layer</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/gtm-context-layer</guid>
+    <pubDate>Wed, 16 Sep 2026 07:54:29 +0000</pubDate>
+    <description>See how WisdomAI’s Head of GTM Strategy &amp; Operations built a GTM context layer that turns hard questions into trusted answers.</description>
+    <media:content url="https://framerusercontent.com/images/uepJSKO0cFFh3gBaSpd9oH8j0M.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
     <title>WisdomAI Now Available in ChatGPT Work</title>
@@ -114,12 +106,36 @@
     <media:content url="https://framerusercontent.com/images/TBoNndRZibCkQcM2UcCeY8ERSE.png?width=2560&amp;height=1464" medium="image"/>
   </item>
   <item>
+    <title>Introducing the new Chat experience — An Agent That Checks Its Own Work</title>
+    <link>https://www.wisdom.ai/blog/new-chat-experience</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/new-chat-experience</guid>
+    <pubDate>Wed, 29 Jul 2026 04:46:57 +0000</pubDate>
+    <description>Meet WisdomAI's next-gen Conversational BI. It clarifies, checks its own work, and reasons through multi-step questions to deliver trustworthy results. </description>
+    <media:content url="https://framerusercontent.com/images/5AverRA60DAvubYW2KeDmD4JY.png?width=2560&amp;height=1464" medium="image"/>
+  </item>
+  <item>
     <title>WisdomAI Hackathon 2026: Highlights and Recap</title>
     <link>https://www.wisdom.ai/blog/hackathon-2026</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/hackathon-2026</guid>
     <pubDate>Thu, 23 Jul 2026 11:35:08 +0000</pubDate>
     <description> WisdomAI Hackathon 2026 just wrapped. See what our engineering and dev teams built over 48 hours — solving real user friction. </description>
     <media:content url="https://framerusercontent.com/images/tsHN2i9pOIa5dpR2sef1TFxMQQ.png?width=1280&amp;height=732" medium="image"/>
+  </item>
+  <item>
+    <title>Domain Health</title>
+    <link>https://www.wisdom.ai/blog/domain-health</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/domain-health</guid>
+    <pubDate>Mon, 06 Jul 2026 19:38:21 +0000</pubDate>
+    <description>WisdomAI’s Domain Health, part of the Adaptive Context Engine, is the first tool that tells you what is wrong and exactly how to fix it. Learn more.</description>
+    <media:content url="https://framerusercontent.com/images/vbJTUlnJYwoYs281mIHIhxstjbE.png?width=3840&amp;height=2196" medium="image"/>
+  </item>
+  <item>
+    <title>World Cup Data Analysis: Build Your Own 2026 Dashboard</title>
+    <link>https://www.wisdom.ai/blog/world-cup-analysis-2026</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/world-cup-analysis-2026</guid>
+    <pubDate>Thu, 25 Jun 2026 05:17:41 +0000</pubDate>
+    <description>We loaded 96 years of World Cup data into WisdomAI, built a dashboard from a napkin sketch, and broke down the odds for 2026. Here's what the numbers say.</description>
+    <media:content url="https://framerusercontent.com/images/DjIbDwGi5DxBPR9sGt6BVMNMVAY.png?width=3840&amp;height=2196" medium="image"/>
   </item>
   <item>
     <title>How Wisdom Gets Text-to-SQL Right in Production</title>
@@ -130,12 +146,44 @@
     <media:content url="https://framerusercontent.com/images/iaNudBLxsasIaxX2LiKQ4aOoIfI.png?width=3840&amp;height=2196" medium="image"/>
   </item>
   <item>
-    <title>Introducing WisdomAI Analytics Agents</title>
-    <link>https://www.wisdom.ai/blog/introducing-analytics-agents</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-analytics-agents</guid>
-    <pubDate>Mon, 18 May 2026 19:38:30 +0000</pubDate>
-    <description>Meet the WisdomAI Analytics Agents. With autonomous workflows that reason across your data stack, you can bridge the gap between insight and action.</description>
-    <media:content url="https://framerusercontent.com/images/hiUGLIwur0ATfZ4R3HpK9BVUWo.png?width=1752&amp;height=1012" medium="image"/>
+    <title>Anthropic Case Study: How to Build Accurate AI analytics</title>
+    <link>https://www.wisdom.ai/blog/accurate-analytics-on-anthropic</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/accurate-analytics-on-anthropic</guid>
+    <pubDate>Fri, 12 Jun 2026 22:03:27 +0000</pubDate>
+    <description>In an honest review, Anthropic says building accurate enterprise AI analytics in Claude is hard. See how WisdomAI solves this problem.</description>
+    <media:content url="https://framerusercontent.com/images/TZ7S4UcEas4BzSi089oSogqKcc.png?width=2560&amp;height=1464" medium="image"/>
+  </item>
+  <item>
+    <title>Announcing WisdomAI's Partnership with Teradata</title>
+    <link>https://www.wisdom.ai/blog/announcing-our-partnership-with-teradata</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/announcing-our-partnership-with-teradata</guid>
+    <pubDate>Wed, 06 May 2026 19:53:38 +0000</pubDate>
+    <description>Now your team can use WisdomAI Agentic Analytics directly in Teradata AI Studio. Go from governed data to action with conversational BI and enterprise context.</description>
+    <media:content url="https://framerusercontent.com/images/t6G0e46qgOXepnv5hRotV9jljbo.png?width=2706&amp;height=1620" medium="image"/>
+  </item>
+  <item>
+    <title>What it actually takes to make AI analytics work on your data</title>
+    <link>https://www.wisdom.ai/blog/spring-2026-product-update</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/spring-2026-product-update</guid>
+    <pubDate>Sun, 03 May 2026 16:06:57 +0000</pubDate>
+    <description>Most AI analytics tools lack a managed and governed approach to enterprise context. Our latest launches make agentic analytics attainable and efficient.</description>
+    <media:content url="https://framerusercontent.com/images/eVi5tv9juxHOOZuCW3n5GjsFp8.png?width=880&amp;height=500" medium="image"/>
+  </item>
+  <item>
+    <title>We love data explorers and their discoveries</title>
+    <link>https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>A Valentine's Day love letter to the data explorers who are the inspiration for WisdomAI</description>
+    <media:content url="https://framerusercontent.com/images/JwJzjl7yDu1lRJflvldvdvS7HGM.png?width=874&amp;height=492" medium="image"/>
+  </item>
+  <item>
+    <title>Data Innovators: An Interview with Alla Ivanova - ex-Google Looker</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>Ex-Google Looker Data Innovator Alla Ivanova shares her perspectives on teh evolving role of AI and data in business,</description>
+    <media:content url="https://framerusercontent.com/images/Ya0wMy0kmHakBfoyn4WeP0njRU.png?width=874&amp;height=492" medium="image"/>
   </item>
   <item>
     <title>Our Manifesto to Transform Enterprise Data into Actionable Wisdom</title>
@@ -146,20 +194,20 @@
     <media:content url="https://framerusercontent.com/images/nb5qxeDlnMM6IAYKtekzyHMi2ac.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
-    <title>WisdomAI and Google Cloud Join Forces to Turn Enterprise Data into Instant Insights</title>
-    <link>https://www.wisdom.ai/blog/wisdomai-google-cloud-bigquery-partnership</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-google-cloud-bigquery-partnership</guid>
+    <title>Data Innovators: Mark Nelson, ex-CEO Tableau</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-mark-nelson</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-mark-nelson</guid>
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
-    <description>WisdomAI is proud to partner with Google Cloud to power smarter insights and analytics from the world's top enterprises.</description>
-    <media:content url="https://framerusercontent.com/images/lTXoJKcGhbVPeBXIaAuRYvBGMk.png?width=1280&amp;height=732" medium="image"/>
+    <description>Discover the future of business intelligence with Mark Nelson, former Tableau CEO, as he discusses the evolution from dashboards to conversational AI with Soham Mazumdar, CEO of WisdomAI.</description>
+    <media:content url="https://framerusercontent.com/images/0ZrZ145h4uSI8aOLxu7f6j9uv0c.png?width=874&amp;height=492" medium="image"/>
   </item>
   <item>
-    <title>Introducing Proactive Agents: Your Always-On AI Data Analyst</title>
-    <link>https://www.wisdom.ai/blog/introducing-proactive-agents</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-proactive-agents</guid>
+    <title>Maximizing the Value of Healthcare Data: WisdomAI Achieves HIPAA Compliance</title>
+    <link>https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</guid>
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
-    <description>Introducing WisdomAI's Proactive Agents, your always-on AI data analyst. These agents work 24/7 to monitor metrics, detect anomalies, and prepare analyses, effectively augmenting your human data team without increasing headcount. Proactive Agents learn over time, surfacing only significant anomalies and freeing your team from manual monitoring, allowing them to focus on strategic projects and ensuring faster issue resolution.</description>
-    <media:content url="https://framerusercontent.com/images/6ll2fHMsOwp9uu2rNPzlA1o7rE.png?width=1280&amp;height=732" medium="image"/>
+    <description>WisdomAI is now HIPAA compliant, enabling healthcare organizations to securely use its AI Data Analyst to leverage vast and complex healthcare data for faster, evidence-based decisions, improved operations, and better patient outcomes.</description>
+    <media:content url="https://framerusercontent.com/images/uzxcZJHgCyVzo9SdMj7UlZjAeE.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
     <title>The first Agentic Data Insights Platform</title>
@@ -195,8 +243,15 @@
   </item>
   <item>
     <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/gtm-context-layer</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/gtm-context-layer</guid>
+    <link>https://www.wisdom.ai/blog/how-i-run-gtm-on-live-apps</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/how-i-run-gtm-on-live-apps</guid>
+    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
+    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
+  </item>
+  <item>
+    <title>WisdomAI</title>
+    <link>https://www.wisdom.ai/blog/a-day-in-the-life-of-a-sql-query</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/a-day-in-the-life-of-a-sql-query</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
     <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
@@ -209,34 +264,6 @@
   </item>
   <item>
     <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/new-chat-experience</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/new-chat-experience</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/domain-health</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/domain-health</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/world-cup-analysis-2026</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/world-cup-analysis-2026</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/accurate-analytics-on-anthropic</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/accurate-analytics-on-anthropic</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
     <link>https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
@@ -244,15 +271,8 @@
   </item>
   <item>
     <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/announcing-our-partnership-with-teradata</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/announcing-our-partnership-with-teradata</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/spring-2026-product-update</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/spring-2026-product-update</guid>
+    <link>https://www.wisdom.ai/blog/introducing-analytics-agents</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-analytics-agents</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
     <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
@@ -265,8 +285,8 @@
   </item>
   <item>
     <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</guid>
+    <link>https://www.wisdom.ai/blog/introducing-proactive-agents</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-proactive-agents</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
     <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
@@ -279,15 +299,8 @@
   </item>
   <item>
     <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-mark-nelson</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-mark-nelson</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</guid>
+    <link>https://www.wisdom.ai/blog/wisdomai-google-cloud-bigquery-partnership</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-google-cloud-bigquery-partnership</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
     <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
@@ -302,13 +315,6 @@
     <title>WisdomAI</title>
     <link>https://www.wisdom.ai/blog/data-innovators-tal-shaked</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-tal-shaked</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</guid>
     <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
     <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
