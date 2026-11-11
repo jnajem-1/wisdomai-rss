@@ -6,7 +6,7 @@
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Comprehensive feed of all WisdomAI blog posts (41 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 11 Nov 2026 06:36:39 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 15:19:49 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
   <item>
@@ -48,14 +48,6 @@
     <pubDate>Wed, 14 Oct 2026 07:26:14 +0000</pubDate>
     <description>Frozen questions, executed SQL, 3 runs per question. Get the methodology behind the benchmark and learn how to run the test on your data.</description>
     <media:content url="https://framerusercontent.com/images/vNHAZkOAVj40eqcGNr3TpF0NRuY.png?width=1280&amp;height=732" medium="image"/>
-  </item>
-  <item>
-    <title>Why I stopped asking for dashboards</title>
-    <link>https://www.wisdom.ai/blog/why-i-stopped-asking-for-dashboards</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/why-i-stopped-asking-for-dashboards</guid>
-    <pubDate>Wed, 07 Oct 2026 15:51:58 +0000</pubDate>
-    <description>After 20 years in customer success, I stopped waiting on reports. Here's how I built a WisdomAI Live App that scores account health and recommends the next move.</description>
-    <media:content url="https://framerusercontent.com/images/q76fFYsRTGpCkzFB05oVPbvAE.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
     <title>Evaluating and improving consistency in AI agents</title>
@@ -336,6 +328,13 @@
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
     <description>WisdomAI secured $50 million in Series A funding, led by Kleiner Perkins, to advance its AI Data Analysts and autonomous AI Agents, shifting analytics from static dashboards to proactive, context-aware insights.</description>
     <media:content url="https://framerusercontent.com/images/akQQJ7JWJ0wZDX94w5ZJlRY5jTU.png?width=1280&amp;height=732" medium="image"/>
+  </item>
+  <item>
+    <title>WisdomAI</title>
+    <link>https://www.wisdom.ai/blog/why-i-stopped-asking-for-dashboards</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/why-i-stopped-asking-for-dashboards</guid>
+    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
+    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
 </channel>
 </rss>
