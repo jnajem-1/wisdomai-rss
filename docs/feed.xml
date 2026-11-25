@@ -6,7 +6,7 @@
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Comprehensive feed of all WisdomAI blog posts (41 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 25 Nov 2026 04:55:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 15:43:11 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
   <item>
@@ -186,6 +186,14 @@
     <media:content url="https://framerusercontent.com/images/TZ7S4UcEas4BzSi089oSogqKcc.png?width=2560&amp;height=1464" medium="image"/>
   </item>
   <item>
+    <title>Introducing WisdomAI Embedded Agentic Analytics</title>
+    <link>https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</guid>
+    <pubDate>Mon, 18 May 2026 19:38:30 +0000</pubDate>
+    <description>With WisdomAI Embedded Agentic Analytics, you can ship white-labeled AI Analytics in your product in days. See how you can turn data into a differentiator.</description>
+    <media:content url="https://framerusercontent.com/images/QRNBnr6UANJOotgwhOiV5M8AIc.png?width=1752&amp;height=1012" medium="image"/>
+  </item>
+  <item>
     <title>Introducing WisdomAI Analytics Agents</title>
     <link>https://www.wisdom.ai/blog/introducing-analytics-agents</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-analytics-agents</guid>
@@ -216,6 +224,22 @@
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
     <description>Choosing Wisely with Data &amp; AI&amp;quot; with Nitin Gupta, Head of Enterprise Analytics, Data &amp; AI, Visa</description>
     <media:content url="https://framerusercontent.com/images/XHJeGFIqHLyTvOxtXyJAOxFCoIg.png?width=874&amp;height=492" medium="image"/>
+  </item>
+  <item>
+    <title>Data Innovators: Tal Shaked</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-tal-shaked</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-tal-shaked</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>Everything in AI is a Quality Problem&amp;quot; with Tal Shaked, Chief ML Officer (CMLO), Moloco</description>
+    <media:content url="https://framerusercontent.com/images/2cnHaRcLXvRsoyqKu0PGPAQuUac.png?width=874&amp;height=492" medium="image"/>
+  </item>
+  <item>
+    <title>We love data explorers and their discoveries</title>
+    <link>https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>A Valentine's Day love letter to the data explorers who are the inspiration for WisdomAI</description>
+    <media:content url="https://framerusercontent.com/images/JwJzjl7yDu1lRJflvldvdvS7HGM.png?width=874&amp;height=492" medium="image"/>
   </item>
   <item>
     <title>Data Innovators: An Interview with Alla Ivanova - ex-Google Looker</title>
@@ -258,6 +282,14 @@
     <media:content url="https://framerusercontent.com/images/0ZrZ145h4uSI8aOLxu7f6j9uv0c.png?width=874&amp;height=492" medium="image"/>
   </item>
   <item>
+    <title>Maximizing the Value of Healthcare Data: WisdomAI Achieves HIPAA Compliance</title>
+    <link>https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>WisdomAI is now HIPAA compliant, enabling healthcare organizations to securely use its AI Data Analyst to leverage vast and complex healthcare data for faster, evidence-based decisions, improved operations, and better patient outcomes.</description>
+    <media:content url="https://framerusercontent.com/images/uzxcZJHgCyVzo9SdMj7UlZjAeE.png?width=1280&amp;height=732" medium="image"/>
+  </item>
+  <item>
     <title>Introducing Proactive Agents: Your Always-On AI Data Analyst</title>
     <link>https://www.wisdom.ai/blog/introducing-proactive-agents</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-proactive-agents</guid>
@@ -290,46 +322,20 @@
     <media:content url="https://framerusercontent.com/images/UkmdFoIwOQptnPIrlJR41x1FyeQ.png?width=1280&amp;height=732" medium="image"/>
   </item>
   <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/introducing-embedded-agentic-analytics</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
+    <title>Announcing our Federated Agentic Intelligence Platform</title>
     <link>https://www.wisdom.ai/blog/announcing-federated-agentic-intelligence-platform</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/announcing-federated-agentic-intelligence-platform</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>WisdomAI recently announced the launch of the Federated Agentic Intelligence Platform, introducing a new model for turning raw enterprise data into trusted decisions.</description>
+    <media:content url="https://framerusercontent.com/images/tXgsZGsmJToc5NjPg7vQIeO1U.png?width=2728&amp;height=1558" medium="image"/>
   </item>
   <item>
-    <title>WisdomAI</title>
+    <title>Announcing our $50M Series A funding led by Kleiner Perkins</title>
     <link>https://www.wisdom.ai/blog/announcing-our-series-a-funding</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/announcing-our-series-a-funding</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-is-hipaa-compliant</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-tal-shaked</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-tal-shaked</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>WisdomAI secured $50 million in Series A funding, led by Kleiner Perkins, to advance its AI Data Analysts and autonomous AI Agents, shifting analytics from static dashboards to proactive, context-aware insights.</description>
+    <media:content url="https://framerusercontent.com/images/akQQJ7JWJ0wZDX94w5ZJlRY5jTU.png?width=1280&amp;height=732" medium="image"/>
   </item>
 </channel>
 </rss>
