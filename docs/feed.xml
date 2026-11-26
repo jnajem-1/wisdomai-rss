@@ -6,7 +6,7 @@
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Comprehensive feed of all WisdomAI blog posts (41 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 26 Nov 2026 09:38:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 19:41:22 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
   <item>
@@ -218,22 +218,6 @@
     <media:content url="https://framerusercontent.com/images/eVi5tv9juxHOOZuCW3n5GjsFp8.png?width=880&amp;height=500" medium="image"/>
   </item>
   <item>
-    <title>Data Innovators: Nitin Gupta</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-nitin-gupta</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-nitin-gupta</guid>
-    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
-    <description>Choosing Wisely with Data &amp; AI&amp;quot; with Nitin Gupta, Head of Enterprise Analytics, Data &amp; AI, Visa</description>
-    <media:content url="https://framerusercontent.com/images/XHJeGFIqHLyTvOxtXyJAOxFCoIg.png?width=874&amp;height=492" medium="image"/>
-  </item>
-  <item>
-    <title>Data Innovators: Tal Shaked</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-tal-shaked</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-tal-shaked</guid>
-    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
-    <description>Everything in AI is a Quality Problem&amp;quot; with Tal Shaked, Chief ML Officer (CMLO), Moloco</description>
-    <media:content url="https://framerusercontent.com/images/2cnHaRcLXvRsoyqKu0PGPAQuUac.png?width=874&amp;height=492" medium="image"/>
-  </item>
-  <item>
     <title>We love data explorers and their discoveries</title>
     <link>https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/we-love-data-explorers-and-their-discoveries-1</guid>
@@ -336,6 +320,20 @@
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
     <description>WisdomAI secured $50 million in Series A funding, led by Kleiner Perkins, to advance its AI Data Analysts and autonomous AI Agents, shifting analytics from static dashboards to proactive, context-aware insights.</description>
     <media:content url="https://framerusercontent.com/images/akQQJ7JWJ0wZDX94w5ZJlRY5jTU.png?width=1280&amp;height=732" medium="image"/>
+  </item>
+  <item>
+    <title>WisdomAI</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-nitin-gupta</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-nitin-gupta</guid>
+    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
+    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
+  </item>
+  <item>
+    <title>WisdomAI</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-tal-shaked</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-tal-shaked</guid>
+    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
+    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
 </channel>
 </rss>
