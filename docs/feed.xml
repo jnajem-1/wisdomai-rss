@@ -6,7 +6,7 @@
   <atom:link href="https://jnajem-1.github.io/wisdomai-rss/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Comprehensive feed of all WisdomAI blog posts (41 items).</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 27 Nov 2026 12:36:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 22:02:46 +0000</lastBuildDate>
   <ttl>60</ttl>
   <generator>wisdomai_feed.py</generator>
   <item>
@@ -242,6 +242,14 @@
     <media:content url="https://framerusercontent.com/images/JwJzjl7yDu1lRJflvldvdvS7HGM.png?width=874&amp;height=492" medium="image"/>
   </item>
   <item>
+    <title>Data Innovators: An Interview with Alla Ivanova - ex-Google Looker</title>
+    <link>https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</link>
+    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</guid>
+    <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
+    <description>Ex-Google Looker Data Innovator Alla Ivanova shares her perspectives on teh evolving role of AI and data in business,</description>
+    <media:content url="https://framerusercontent.com/images/Ya0wMy0kmHakBfoyn4WeP0njRU.png?width=874&amp;height=492" medium="image"/>
+  </item>
+  <item>
     <title>Our Manifesto to Transform Enterprise Data into Actionable Wisdom</title>
     <link>https://www.wisdom.ai/blog/wisdomai-manifesto</link>
     <guid isPermaLink="true">https://www.wisdom.ai/blog/wisdomai-manifesto</guid>
@@ -328,13 +336,6 @@
     <pubDate>Wed, 25 Feb 2026 13:04:43 +0000</pubDate>
     <description>WisdomAI secured $50 million in Series A funding, led by Kleiner Perkins, to advance its AI Data Analysts and autonomous AI Agents, shifting analytics from static dashboards to proactive, context-aware insights.</description>
     <media:content url="https://framerusercontent.com/images/akQQJ7JWJ0wZDX94w5ZJlRY5jTU.png?width=1280&amp;height=732" medium="image"/>
-  </item>
-  <item>
-    <title>WisdomAI</title>
-    <link>https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</link>
-    <guid isPermaLink="true">https://www.wisdom.ai/blog/data-innovators-an-interview-with-alla-ivanova-ex-google-looker</guid>
-    <description>WisdomAI delivers agentic analytics and context-aware AI agents to automate data insights, transform enterprise analytics, and drive business outcomes with proactive, conversational tools. </description>
-    <media:content url="https://framerusercontent.com/images/3dwEqXixSARHiIL3AU92iLQiDw.png" medium="image"/>
   </item>
 </channel>
 </rss>
